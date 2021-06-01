@@ -8,7 +8,7 @@ Though Docurium can generate your docs into a subdirectory, it is meant to be se
 
 # Usage
 
-Run the `cm` binary and pass it your Docurium config file.
+Run the `cm` binary in the working directory of a Git repository and pass it a Docurium config file.
 
     $ cm doc api.docurium
     * generating docs
